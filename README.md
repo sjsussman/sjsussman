@@ -5,7 +5,7 @@
 I'm a full stack stack developer who is passionate about writing code and solving problems.
 
 - 🔭 I’m currently a web developer student finishing my last unit @ Lambda School.
-- 📚 I’m currently working on learning Google Firebase.
+- 📚 I’m currently learning Google Firebase.
 - 👯 I’m looking for a full stack web developer job. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/steven-sussman/) [E-Mail](mailto:hello@sjsussman.com)
 
