@@ -4,7 +4,7 @@
 
 I'm a full stack stack developer who is passionate about writing code and solving problems.
 
-- 🔭 I’m currently a web developer student finishing my last unit @ Lambda School.
+- 🔭 I am a web developer looking for work as a Fullstack or Front End engineer.
 - 📚 React, Node.JS, HTML, Vanilla JS, CSS, Google Firebase, MaterialUI, Jest
 - 👯 I’m looking for a full stack web developer job. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/steven-sussman/) [E-Mail](mailto:hello@sjsussman.com)
