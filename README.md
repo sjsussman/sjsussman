@@ -5,5 +5,6 @@
 I'm a full stack stack developer @ [GetSetUp](https://www.getsetup.io). 
 Check out my portfolio: https://www.sjsussman.com
 
-📫 Need to reach me? 
+Want to Connect? 
+
 [Linkedin](https://www.linkedin.com/in/steven-sussman/) | [E-Mail](mailto:hello@sjsussman.com)
