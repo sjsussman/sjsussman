@@ -7,5 +7,3 @@ Check out my portfolio: https://www.sjsussman.com
 
 📫 Need to reach me? 
 [Linkedin](https://www.linkedin.com/in/steven-sussman/) | [E-Mail](mailto:hello@sjsussman.com)
-
-⭐️ From [sjsussman](https://github.com/sjsussman)
