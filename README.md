@@ -5,4 +5,4 @@
 I'm a full stack stack developer @ [GetSetUp](https://www.getsetup.io). 
 
 Want to Connect? 
-[Linkedin](https://www.linkedin.com/in/steven-sussman/) | [E-Mail](mailto:hello@sjsussman.com)
+[Linkedin](https://www.linkedin.com/in/steven-sussman/) | [E-Mail](sjsussman@gmail.com)
